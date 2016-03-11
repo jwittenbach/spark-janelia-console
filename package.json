@@ -1,0 +1,11 @@
+{
+  "name": "spark-janelia-console",
+  "version": "0.1.0",
+  "main": "main.js",
+  "repository": "https://github.com/jwittenbach/spark-janelia-console",
+  "dependencies": {
+    "simple-ssh": "^0.8.8",
+    "sprintf": "^0.1.5",
+    "xml2js": "^0.4.16"
+  }
+}
